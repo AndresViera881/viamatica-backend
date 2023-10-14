@@ -1,0 +1,12 @@
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Shared\bin\Debug\net7.0\Viamatica.Shared.deps.json
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Shared\bin\Debug\net7.0\Viamatica.Shared.dll
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Shared\bin\Debug\net7.0\Viamatica.Shared.pdb
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Shared\obj\Debug\net7.0\Viamatica.Shared.csproj.AssemblyReference.cache
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Shared\obj\Debug\net7.0\Viamatica.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Shared\obj\Debug\net7.0\Viamatica.Shared.AssemblyInfoInputs.cache
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Shared\obj\Debug\net7.0\Viamatica.Shared.AssemblyInfo.cs
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Shared\obj\Debug\net7.0\Viamatica.Shared.csproj.CoreCompileInputs.cache
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Shared\obj\Debug\net7.0\Viamatica.Shared.dll
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Shared\obj\Debug\net7.0\refint\Viamatica.Shared.dll
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Shared\obj\Debug\net7.0\Viamatica.Shared.pdb
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Shared\obj\Debug\net7.0\ref\Viamatica.Shared.dll

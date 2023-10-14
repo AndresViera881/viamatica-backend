@@ -1,0 +1,17 @@
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Data\bin\Debug\net7.0\Viamatica.Data.deps.json
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Data\bin\Debug\net7.0\Viamatica.Data.runtimeconfig.json
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Data\bin\Debug\net7.0\Viamatica.Data.dll
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Data\bin\Debug\net7.0\Viamatica.Data.pdb
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Data\bin\Debug\net7.0\Viamatica.Shared.dll
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Data\bin\Debug\net7.0\Viamatica.Shared.pdb
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Data\obj\Debug\net7.0\Viamatica.Data.csproj.AssemblyReference.cache
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Data\obj\Debug\net7.0\Viamatica.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Data\obj\Debug\net7.0\Viamatica.Data.AssemblyInfoInputs.cache
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Data\obj\Debug\net7.0\Viamatica.Data.AssemblyInfo.cs
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Data\obj\Debug\net7.0\Viamatica.Data.csproj.CoreCompileInputs.cache
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Data\obj\Debug\net7.0\Viamatica.Data.csproj.CopyComplete
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Data\obj\Debug\net7.0\Viamatica.Data.dll
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Data\obj\Debug\net7.0\refint\Viamatica.Data.dll
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Data\obj\Debug\net7.0\Viamatica.Data.pdb
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Data\obj\Debug\net7.0\Viamatica.Data.genruntimeconfig.cache
+D:\Visual Studio\net7\API.Viamatica\Viamatica.Data\obj\Debug\net7.0\ref\Viamatica.Data.dll

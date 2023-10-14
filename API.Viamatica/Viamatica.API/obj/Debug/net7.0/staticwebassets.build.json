@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iXzR0pBwomWSXpIGu/U6EgIiHOwj1tTfyOokeBrtqgM=",
+  "Source": "Viamatica.API",
+  "BasePath": "_content/Viamatica.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

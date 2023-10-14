@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nRT2MeAMOw86mpTr4DwoLA6btyhD1ibJGzEkVSGN56xvrAUaIqGnCfVEJROzd0j6ShwuJNjnX/0u5BFi3yqwpQ==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio\\net7\\API.Viamatica\\Viamatica.Shared\\Viamatica.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andyv\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.12\\microsoft.entityframeworkcore.abstractions.7.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
